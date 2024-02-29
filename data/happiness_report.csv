@@ -1,0 +1,11 @@
+Country,Region,Year,Happiness_Score,GDP_Per_Capita,Social_Support,Healthy_Life_Expectancy,Freedom_to_Make_Life_Choices,Generosity,Perceptions_of_Corruption
+Finland,Northern Europe,2023,7.842,1.447,1.106,0.741,0.691,0.124,0.481
+Denmark,Northern Europe,2023,7.620,1.396,1.108,0.763,0.686,0.208,0.485
+Switzerland,Western Europe,2023,7.571,1.452,1.079,0.816,0.653,0.204,0.413
+Iceland,Northern Europe,2023,7.554,1.325,1.172,0.772,0.698,0.293,0.170
+Netherlands,Western Europe,2023,7.464,1.503,1.079,0.753,0.647,0.302,0.384
+Norway,Northern Europe,2023,7.392,1.488,1.108,0.782,0.652,0.271,0.341
+Sweden,Northern Europe,2023,7.363,1.456,1.106,0.763,0.670,0.237,0.373
+New Zealand,Australia and New Zealand,2023,7.277,1.303,1.094,0.785,0.665,0.276,0.221
+Austria,Western Europe,2023,7.268,1.376,1.042,0.752,0.632,0.244,0.481
+Luxembourg,Western Europe,2023,7.064,1.632,1.012,0.760,0.639,0.196,0.367
